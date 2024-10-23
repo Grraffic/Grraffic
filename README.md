@@ -53,7 +53,18 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/Grraffic/Grraffic/blob/output/snake.svg)
+<img src="https://raw.githubusercontent.com/Grraffic/Grraffic/output/snake.svg" alt="Snake animation" />
 
+###
+
+<img src="https://raw.githubusercontent.com/Grraffic/Grraffic/output/snake.svg" alt="Snake animation" />
+
+###
+
+<img src="https://raw.githubusercontent.com/Grraffic/Grraffic/output/snake.svg" alt="Snake animation" />
+
+###
+
+<img src="https://raw.githubusercontent.com/Grraffic/Grraffic/output/snake.svg" alt="Snake animation" />
 
 ###
