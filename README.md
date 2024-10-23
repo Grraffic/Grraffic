@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Graffic and I'm a Frontend Developer from Philippine</h2>
+<h2 align="left">Hello World! My name is Graffic and I'm a Frontend Developer and Web Designer</h2>
 
 ###
 
