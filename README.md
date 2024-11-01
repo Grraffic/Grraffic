@@ -1,9 +1,8 @@
 <h2 align="left">Hello World! My name is Graffic and I'm a Frontend Developer and Web Designer</h2>
 
 ###
-
+![Grraffic's Stats](https://github-readme-stats.vercel.app/api?username=Grraffic&theme=dark&show_icons=true&hide_border=false&count_private=true)
 <div align="center">
- ![Grraffic's Stats](https://github-readme-stats.vercel.app/api?username=Grraffic&theme=dark&show_icons=true&hide_border=false&count_private=true)
   <img src="https://streak-stats.demolab.com?user=Grraffic&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Grraffic&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
