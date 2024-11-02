@@ -1,5 +1,7 @@
 <h2 align="left">Hello World! My name is Graffic and I'm a Frontend Developer and Web Designer</h2>
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31th7p5x5y4fqeqrprfzkxgg7hju&cover_image=true&theme=default&show_offline=true&background_color=0d0c0d&interchange=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31th7p5x5y4fqeqrprfzkxgg7hju&redirect=true)
+
 [![](https://visitcount.itsvg.in/api?id=Grraffic&icon=0&color=6)](https://visitcount.itsvg.in)
 
 <div align="left">
