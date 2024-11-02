@@ -34,6 +34,13 @@
 
 ###
 # 📊 GitHub Stats:
+
+<div align=""center>
+  
+![](https://github-profile-trophy.vercel.app/?username=Grraffic&theme=onedark&no-frame=true&no-bg=true)
+[![](https://github-readme-activity-graph.vercel.app/graph?username=Grraffic&theme=one-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
+
 ![](https://github-readme-stats.vercel.app/api?username=Grraffic&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Grraffic&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Grraffic&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
