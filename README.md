@@ -1,8 +1,10 @@
 <h2 align="left">Hello World! My name is Graffic and I'm a Frontend Developer and Web Designer</h2>
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31th7p5x5y4fqeqrprfzkxgg7hju&cover_image=true&theme=default&show_offline=false&background_color=0d0c0d&interchange=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31th7p5x5y4fqeqrprfzkxgg7hju&redirect=true)
   
-
+<div align="center">
+  
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31th7p5x5y4fqeqrprfzkxgg7hju&cover_image=true&theme=default&show_offline=false&background_color=0d0c0d&interchange=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31th7p5x5y4fqeqrprfzkxgg7hju&redirect=true)
+  
+<div/>
 
 [![](https://visitcount.itsvg.in/api?id=Grraffic&icon=0&color=6)](https://visitcount.itsvg.in)
 
@@ -33,8 +35,8 @@
 ###
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Grraffic&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Grraffic&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Grraffic&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Grraffic&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Grraffic&limit=5&theme=dark&combine_all_yearly_contributions=true)
