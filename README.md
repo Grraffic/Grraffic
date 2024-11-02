@@ -1,4 +1,4 @@
-<h2 align="left">Hello World! My name is Graffic and I'm a Frontend Developer and Web Designer</h2>
+<h2 align="left">Hello World! My name is Grraffic and I'm a Frontend Developer and Web Designer</h2>
   
 <div align="center">
   
