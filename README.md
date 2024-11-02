@@ -1,16 +1,5 @@
 <h2 align="left">Hello World! My name is Grraffic and I'm a Frontend Developer and Web Designer</h2>
   
-
-<div align="center">
-  
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31th7p5x5y4fqeqrprfzkxgg7hju&cover_image=true&theme=default&show_offline=false&background_color=0d0c0d&interchange=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31th7p5x5y4fqeqrprfzkxgg7hju&redirect=true)
-  
-<div/>
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/xdraf56) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/graffphic/) 
-[![](https://visitcount.itsvg.in/api?id=Grraffic&icon=0&color=6)](https://visitcount.itsvg.in)
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -33,7 +22,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="30" alt="premierepro logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo"  />
-</div>
+</div><br>
+
+<div align="center">
+  
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31th7p5x5y4fqeqrprfzkxgg7hju&cover_image=true&theme=default&show_offline=false&background_color=0d0c0d&interchange=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31th7p5x5y4fqeqrprfzkxgg7hju&redirect=true)
+  
+<div/>
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/xdraf56) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/graffphic/) 
+[![](https://visitcount.itsvg.in/api?id=Grraffic&icon=0&color=6)](https://visitcount.itsvg.in)
+
 
 ###
 # 📊 GitHub Stats:
