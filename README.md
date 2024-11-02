@@ -1,7 +1,5 @@
 <h2 align="left">Hello World! My name is Grraffic and I'm a Frontend Developer and Web Designer</h2>
   
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/xdraf56) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/graffphic/) 
 
 <div align="center">
   
@@ -9,6 +7,8 @@
   
 <div/>
 
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/xdraf56) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/graffphic/) 
 [![](https://visitcount.itsvg.in/api?id=Grraffic&icon=0&color=6)](https://visitcount.itsvg.in)
 
 <div align="left">
