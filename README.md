@@ -28,7 +28,7 @@
 
 ###
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiperdev&hide_border=true&layout=compact" align="left" style="width: 100%" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
 
 ###
 
