@@ -42,7 +42,6 @@
   
 ![](https://github-profile-trophy.vercel.app/?username=Grraffic&theme=onedark&no-frame=true&no-bg=true)
 [![](https://github-readme-activity-graph.vercel.app/graph?username=Grraffic&theme=one-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![](https://github-profile-trophy.vercel.app/?username=Grraffic&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 </div>
 
