@@ -1,6 +1,6 @@
 <div align="center">
-   <img src="https://readme-typing-svg.demolab.com/demo/?weight=600&color=912DF7&lines=Hi+I'm+Rafael+Ramos;Aspiring+Software+Engineer!!!"/>
-  </div>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&height=80&lines=Hi%2C+I'm+Rafael+Ramos;Aspiring+Software+Engineer" alt="Animated Header" />
+</div>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
