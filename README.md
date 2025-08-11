@@ -1,4 +1,6 @@
-https://readme-typing-svg.demolab.com/demo/?weight=600&color=912DF7&lines=Hi+I'm+Rafael+Ramos;Aspiring+Software+Engineer!!!
+<div align="center">
+   <img src="https://readme-typing-svg.demolab.com/demo/?weight=600&color=912DF7&lines=Hi+I'm+Rafael+Ramos;Aspiring+Software+Engineer!!!"/>
+  </div>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
